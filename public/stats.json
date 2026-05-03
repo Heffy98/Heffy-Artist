@@ -1,0 +1,87 @@
+{
+  "allTimeStreams": "157.9k",
+  "topPlatform": "Spotify",
+  "topCity": "Chicago",
+  "topCityStreams": "63",
+  "topTrack": "Lose Sum",
+  "topTrackStreams": "992",
+  "trendingTrack": "Flights Over Feelins",
+  "trendingTrackStreams": "7",
+  "trendChange": "+133.3%",
+  "topCities": [
+    {
+      "name": "Los Angeles",
+      "streams": "9,339"
+    },
+    {
+      "name": "Chicago",
+      "streams": "8,251"
+    },
+    {
+      "name": "New York",
+      "streams": "5,772"
+    },
+    {
+      "name": "Dallas-Ft. Worth",
+      "streams": "4,648"
+    },
+    {
+      "name": "Atlanta",
+      "streams": "3,392"
+    }
+  ],
+  "topCountries": [
+    {
+      "name": "United States",
+      "streams": "131.9k"
+    },
+    {
+      "name": "Canada",
+      "streams": "6,327"
+    },
+    {
+      "name": "United Kingdom",
+      "streams": "3,893"
+    },
+    {
+      "name": "Poland",
+      "streams": "1,379"
+    },
+    {
+      "name": "Germany",
+      "streams": "1,296"
+    }
+  ],
+  "platforms": [
+    {
+      "name": "Spotify",
+      "streams": "138.4k"
+    },
+    {
+      "name": "Apple Music",
+      "streams": "16.5k"
+    },
+    {
+      "name": "YouTube",
+      "streams": "2,958"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Album",
+      "streams": "2,515"
+    },
+    {
+      "name": "Library",
+      "streams": "92.5k"
+    },
+    {
+      "name": "Playlist",
+      "streams": "38.4k"
+    },
+    {
+      "name": "Radio",
+      "streams": "7,032"
+    }
+  ]
+}
